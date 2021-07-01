@@ -1,0 +1,1 @@
+$\pi_{*}(a\mid s) = arg\max_{a} \ Q_{*}(s,a)$
